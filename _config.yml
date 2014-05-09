@@ -1,0 +1,10 @@
+# Site settings
+title: devlog
+email: jingjer13@gmail.com
+description: "jingjer's devlog"
+baseurl: ""
+url: "http://jingjer.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
